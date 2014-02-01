@@ -1,7 +1,7 @@
 
 CONTENTS OF THIS FILE
 ---------------------
-
+ * Paul
  * About Drupal
  * Configuration and features
  * Installation profiles
